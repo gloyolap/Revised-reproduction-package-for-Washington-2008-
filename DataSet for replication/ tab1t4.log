@@ -1,0 +1,14 @@
+----------------------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  /Users/usuario/Desktop/T3/tab1t4.log
+  log type:  text
+ opened on:  28 Nov 2021, 20:20:29
+
+. clear all
+
+. set more off
+
+. cd "/Users/usuario/Desktop/T3"
+/Users/usuario/Desktop/T3
+
+. capture log close
